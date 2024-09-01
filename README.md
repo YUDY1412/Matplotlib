@@ -74,3 +74,7 @@ Khi vẽ biểu đồ với Matplotlib trong Python, bạn có thể cấu hình
 - **`plt.pie(sizes, labels=labels)`**: Tạo biểu đồ tròn.
 
 Các lệnh trên cho phép bạn tùy chỉnh và điều chỉnh chi tiết biểu đồ để phù hợp với nhu cầu của mình khi sử dụng Matplotlib.
+
+
+ 
+	https://matplotlib.org/stable/gallery/ticks/index.html
